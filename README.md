@@ -30,7 +30,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/luchiri/weather-app.git
 
 
 Navigate into the project folder:
