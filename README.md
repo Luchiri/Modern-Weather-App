@@ -24,7 +24,7 @@ Weather info appears only after searching, keeping the interface clean.
 
 Screenshots
 
-weather app screenshot.png
+https://raw.githubusercontent.com/Luchiri/Modern-Weather-App/da68c901df69103b3841c0c9dfe6438e078d3285/weather%20app%20screenshot.png
 
 Installation
 
