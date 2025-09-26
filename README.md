@@ -24,7 +24,7 @@ Weather info appears only after searching, keeping the interface clean.
 
 Screenshots
 
-(Replace with your screenshot URL)
+weather app screenshot.png
 
 Installation
 
